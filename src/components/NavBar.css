@@ -1,0 +1,41 @@
+.nav{
+    /* background: linear-gradient(to right, rgba(49, 49, 54, 0.62), rgba(4, 33, 34, 0.52)); */
+    position: fixed;
+    padding-left: 45px;
+    padding-right: 55px;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .85rem;
+    color: #fff !important;
+}
+
+.navbar-toggler-icon{
+    color: #fff !important;
+    /* background-color: #fff !important; */
+    border: 1px solid #fff;
+}
+
+@media (max-width: 992px) {
+
+    .nav{
+        /* background: linear-gradient(to right, rgba(49, 49, 54, 1), rgba(4, 33, 34, 1)); */
+        background-color: rgba(7, 23, 27, 0.7);
+        position: fixed;
+        padding-left: 25px;
+        padding-right: 25px;
+        top: 0;
+        width: 100%;
+        z-index: 100;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: .85rem;
+        color: #fff !important;
+    }
+
+}
+.nav-color{
+    color: #fff !important;
+}

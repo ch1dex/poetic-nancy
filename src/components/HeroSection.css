@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900&display=swap');
+.hero {
+    /* background: linear-gradient(to right, rgba(49, 49, 54, 0.62), rgba(4, 33, 34, 0.52)), url('../bg-img/p1.jpg') center center/cover no-repeat; */
+    background: linear-gradient(to right, rgba(49, 49, 54, 0.62), rgba(4, 33, 34, 0.52)), url('../bg-img/hero.jpg') center center/cover no-repeat;
+    /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
+    height: 90vh;
+    color: #fff;
+    margin-top: 76px;
+}
+@media (max-width: 992px) {
+    .hero{
+        margin-top: 76px;
+    }
+}
+.hero-cont{
+    margin-top: 5rem;
+}
+.hero-content h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+    line-height: 4rem;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: .15rem;
+}
+.hero-txt p{
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+

@@ -1,0 +1,21 @@
+#footer {
+    background-color: #2b323f;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    color: blanchedalmond;
+}
+
+#footer .social-icons {
+    font-size: 25px;
+}
+
+#footer .social-icons a {
+    margin-right: 20px;
+    color: #8d8c8c;
+}
+
+.copyright p {
+    margin-top: 1rem;
+    color: #ffffff;
+    font-size: .9rem;
+}

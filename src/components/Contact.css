@@ -1,0 +1,38 @@
+#contact {
+    background-color: #f0f1f3;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+
+.btn-contact {
+    background: linear-gradient(to right, rgba(0,172,217, 0.62), rgba(105,240,174, 0.52));
+    padding: .5rem 2.2rem;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 2rem;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+.btn-contact:hover {
+    background: #ffffff;
+    color: rgba(0,172,217, 0.62);
+    border: 2px solid rgba(0,172,217, 0.62);
+}
+
+.address p{
+    text-align: justify;
+}
+
+#contact .contact-details ul li {
+    padding-bottom: .8rem;
+    text-align: justify;
+}
+
+#contact .contact-details ul li i {
+    color: rgba(0,172,217, 0.62);
+}
+.form-inp{
+    margin-bottom: .8rem;
+    /* padding: .8rem; */
+}
