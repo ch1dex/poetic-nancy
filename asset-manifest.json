@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/poetic-nancy/static/css/main.06e26134.chunk.css",
-    "main.js": "/poetic-nancy/static/js/main.00490ca3.chunk.js",
-    "main.js.map": "/poetic-nancy/static/js/main.00490ca3.chunk.js.map",
+    "main.css": "/poetic-nancy/static/css/main.b0a76ab9.chunk.css",
+    "main.js": "/poetic-nancy/static/js/main.af443205.chunk.js",
+    "main.js.map": "/poetic-nancy/static/js/main.af443205.chunk.js.map",
     "runtime-main.js": "/poetic-nancy/static/js/runtime-main.790b75d0.js",
     "runtime-main.js.map": "/poetic-nancy/static/js/runtime-main.790b75d0.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/poetic-nancy/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.2cc8855d.chunk.js.map": "/poetic-nancy/static/js/3.2cc8855d.chunk.js.map",
     "index.html": "/poetic-nancy/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/poetic-nancy/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.06e26134.chunk.css.map": "/poetic-nancy/static/css/main.06e26134.chunk.css.map",
+    "static/css/main.b0a76ab9.chunk.css.map": "/poetic-nancy/static/css/main.b0a76ab9.chunk.css.map",
     "static/js/2.a9e04799.chunk.js.LICENSE.txt": "/poetic-nancy/static/js/2.a9e04799.chunk.js.LICENSE.txt",
     "static/media/HeroSection.css": "/poetic-nancy/static/media/hero.6795f660.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.790b75d0.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.a9e04799.chunk.js",
-    "static/css/main.06e26134.chunk.css",
-    "static/js/main.00490ca3.chunk.js"
+    "static/css/main.b0a76ab9.chunk.css",
+    "static/js/main.af443205.chunk.js"
   ]
 }
