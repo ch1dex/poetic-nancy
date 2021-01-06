@@ -17,7 +17,7 @@ function MyProducts() {
   <Card>
   <Card.Header as="h5">Featured</Card.Header>
   <Card.Body>
-    <Image src='#/images/book1.png' style={{width: '100%'}} />
+    <Image src='../bg-img/book1.png' style={{width: '100%'}} />
   <Card.Title>Out of Chains</Card.Title>
     <Card.Text>
       How to escape depression...

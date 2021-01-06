@@ -7,7 +7,7 @@ function NavBar() {
         <>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className='nav' >
             <Navbar.Brand href="#home" className='nav-color'>
-                <Image src='#/images/logo.png' />
+                <Image src='../bg-img/logo.png' />
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >

@@ -3,7 +3,7 @@
     /* background: linear-gradient(to right, rgba(49, 49, 54, 0.62), rgba(4, 33, 34, 0.52)), url('../bg-img/p1.jpg') center center/cover no-repeat; */
     background: linear-gradient(to right, rgba(49, 49, 54, 0.62), rgba(4, 33, 34, 0.52)), url('../bg-img/hero.jpg') center center/cover no-repeat;
     /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
-    height: 90vh;
+    height: 80vh;
     color: #fff;
     margin-top: 76px;
 }
