@@ -16,7 +16,7 @@ function Aboutme() {
                     <Col sm={4}>
                         <div >
                         <div className='abt-img'>
-                        <Image src='/nancy2.png' width='100%' responsive='true' alt='smooooooothing' />
+                        <Image src='#/nancy2.png' width='100%' responsive='true' alt='smooooooothing' />
                         </div>
                         
                         <h4 style={{backgroundColor: 'blue', padding: '5px', color: '#fff'}}>
